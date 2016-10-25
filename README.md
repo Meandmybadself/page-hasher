@@ -1,5 +1,6 @@
 # Page-Hasher
 This was built to find duplicate content on separate pages on a web site.
+It downloads the webpages defined in _urls.txt_ , md5 hashes their contents, and outputs the result as a text file. 
 
 ## Steps to use
 * Clone repo
